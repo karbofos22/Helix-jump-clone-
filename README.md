@@ -1,1 +1,1 @@
-# Helix-jump-clone-
+Pet project for educational purposes

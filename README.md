@@ -1,1 +1,1 @@
-Pet project for educational purposes
+Unity pet project for educational purposes

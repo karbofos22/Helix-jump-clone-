@@ -1,1 +1,1 @@
-# Helix-jump-clone-
+Unity pet project for educational purposes
